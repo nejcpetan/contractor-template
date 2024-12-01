@@ -10,7 +10,7 @@ export default function AboutPage() {
       {/* Hero Section */}
       <section className="relative h-[40vh] bg-gray-900">
         <Image
-          src="/about-hero.jpg"
+          src="/about-hero.png"
           alt="O nas"
           fill
           className="object-cover opacity-50"
@@ -53,7 +53,7 @@ export default function AboutPage() {
               className="relative h-[400px]"
             >
               <Image
-                src="/about-company.jpg"
+                src="/about-company.png"
                 alt="Naše podjetje"
                 fill
                 className="object-cover rounded-lg"

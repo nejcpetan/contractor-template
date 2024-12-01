@@ -11,7 +11,7 @@ export function CallToAction() {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0">
         <Image
-          src="/cta-bg.jpg"
+          src="/cta-bg.png"
           alt="Background"
           fill
           className="object-cover"
@@ -44,7 +44,7 @@ export function CallToAction() {
               <Button
                 size="lg"
                 variant="outline"
-                className="w-full sm:w-auto text-white border-white hover:bg-white/10"
+                className="w-full sm:w-auto text-black hover:text-white border-white hover:bg-white/10"
               >
                 Oglejte Si Naše Projekte
               </Button>
